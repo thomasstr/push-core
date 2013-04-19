@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Push::VERSION
   s.authors     = ["Tom Pesman"]
   s.email       = ["tom@tnux.net"]
-  s.homepage    = "https://github.com/tompesman/push-core"
+  s.homepage    = "https://github.com/thomasstr/push-core"
   s.summary     = "Core of the push daemon."
   s.description = "Push daemon for push notification services like APNS (iOS/Apple) and GCM/C2DM (Android)."
 
